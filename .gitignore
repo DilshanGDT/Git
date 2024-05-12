@@ -1,0 +1,4 @@
+secret.txt
+
+# Use for commenting
+# * wildcards - *.txt :- all the files with .txt extention ignored.
